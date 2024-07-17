@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LittleSpuder. I'm 14 (almost 15) and I'm here on GitHub to better my coding skills. My personal Git
+- 👋 Hi, I’m @LittleSpuder. I'm 15 and I'm here on GitHub to better my coding skills. My personal Git
 - 👀 I’m interested in robotics, reading and sustainabilty.
 - 🌱 I’m currently hoping to do Mathematics Specilists, Mathematics Methods, Chemistry, Physics and Italian for my ATAR
 - 💞️ I’m looking to collaborate on Perth Modern and Phyton related coding projects.
