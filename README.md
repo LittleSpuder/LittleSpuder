@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittleSpuder. I'm 15 and I'm here on GitHub to better my coding skills. My personal Git
 - 👀 I’m interested in robotics, reading and sustainabilty.
-- 🌱 I’m currently hoping to do Mathematics Specilists, Mathematics Methods, Chemistry, Physics and Italian for my ATAR
+- 🌱 I’m currently hoping to do Mathematics Specilists, Mathematics Methods, Philsophy and Ethics, Physics and Italian for my ATAR
 - 💞️ I’m looking to collaborate on Perth Modern and Phyton related coding projects.
 - 📫 You can reach me at nicholas.leendertse@student.education.wa.edu.au, paul.norbelly@hotmail.com, 0491185663 and at my personal GitHub account, @LittleSpider13
   
